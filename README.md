@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akilaliyanage&label=Profile%20views&color=0e75b6&style=flat" alt="akilaliyanage" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akilaliyanage" alt="akilaliyanage" /></a> </p>
+<p align="left"> <a href="https://twitter.com/liyanageakila" target="blank"><img src="https://img.shields.io/twitter/follow/liyanageakila?logo=twitter&style=for-the-badge" alt="liyanageakila" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/akilaliyanage" target="blank"><img src="https://img.shields.io/twitter/follow/akilaliyanage?logo=twitter&style=for-the-badge" alt="akilaliyanage" /></a> </p>
+- 🔭 I’m currently working on [Python Data Science](https://github.com/akilaliyanage/PythonDataScienceHandbook)
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [akilaliyanage.github.io](akilaliyanage.github.io)
+- 👯 I’m looking to collaborate on **Machine Learning projects**
+
+- 👨‍💻 All of my projects are available at [https://akilaliyanage.github.io/#projects-section](https://akilaliyanage.github.io/#projects-section)
 
 - 📝 I regularly write articles on [https://medium.com/@mlakilaliyanage](https://medium.com/@mlakilaliyanage)
 
@@ -19,15 +21,19 @@
 
 - 📄 Know about my experiences [https://akilaliyanage.github.io/akcv.pdf](https://akilaliyanage.github.io/akcv.pdf)
 
+- ⚡ Fun fact **Hate coffee ☕**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/akilaliyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akilaliyanage" height="30" width="40" /></a>
 <a href="https://dev.to/akilaliyanage" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akilaliyanage" height="30" width="40" /></a>
-<a href="https://twitter.com/akilaliyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akilaliyanage" height="30" width="40" /></a>
+<a href="https://twitter.com/liyanageakila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="liyanageakila" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mlakilaliyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mlakilaliyanage" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/akila liyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akila liyanage" height="30" width="40" /></a>
 <a href="https://codesandbox.com/akilaliyanage" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="akilaliyanage" height="30" width="40" /></a>
 <a href="https://kaggle.com/akilaliyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akilaliyanage" height="30" width="40" /></a>
 <a href="https://fb.com/akila liyanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akila liyanage" height="30" width="40" /></a>
