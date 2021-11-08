@@ -26,9 +26,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [What is Docker?](https://mlakilaliyanage.medium.com/what-is-docker-fae3fe18cf26?source=rss-7b3f73789ef3------2)
-- [A Comparison of NoSQL Database Management Systems and Models(Part III)](https://mlakilaliyanage.medium.com/a-comparison-of-nosql-database-management-systems-and-models-part-iii-45280ace1aea?source=rss-7b3f73789ef3------2)
-- [A Comparison of NoSQL Database Management Systems and Models (Part II)](https://mlakilaliyanage.medium.com/a-comparison-of-nosql-database-management-systems-and-models-part-ii-20ed42069ef0?source=rss-7b3f73789ef3------2)
-- [A Comparison of NoSQL Database Management Systems and Models(Part 1)](https://mlakilaliyanage.medium.com/a-comparison-of-nosql-database-management-systems-and-models-part-1-b8dad7076c5c?source=rss-7b3f73789ef3------2)
+- [A Comparison of NoSQL Database Management Systems and Models&lpar;Part III&rpar;](https://mlakilaliyanage.medium.com/a-comparison-of-nosql-database-management-systems-and-models-part-iii-45280ace1aea?source=rss-7b3f73789ef3------2)
+- [A Comparison of NoSQL Database Management Systems and Models &lpar;Part II&rpar;](https://mlakilaliyanage.medium.com/a-comparison-of-nosql-database-management-systems-and-models-part-ii-20ed42069ef0?source=rss-7b3f73789ef3------2)
+- [A Comparison of NoSQL Database Management Systems and Models&lpar;Part 1&rpar;](https://mlakilaliyanage.medium.com/a-comparison-of-nosql-database-management-systems-and-models-part-1-b8dad7076c5c?source=rss-7b3f73789ef3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
