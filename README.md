@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akila Liyanage</h1>
-<h3 align="center">undergrad | web designer | DevSecOps | programmer | blogger | FOSS Enth. writer @Medium</h3>
+<h3 align="center">graduate | web designer | DevSecOps | programmer | blogger | FOSS Enth. writer @Medium</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akilaliyanage&label=Profile%20views&color=0e75b6&style=flat" alt="akilaliyanage" /> </p>
 
